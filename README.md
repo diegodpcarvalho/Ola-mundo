@@ -1,3 +1,3 @@
 # Olá, Mundo!
- Primeiro repositorio versionado \n
- add direto do site
+ Primeiro repositorio versionado
+ Add direto do site
